@@ -1,4 +1,4 @@
-![Alt text]([image_url](https://postimg.cc/yDSWLsJH))
+![Alt text](https://postimg.cc/yDSWLsJH)
 
 # Introduction
 Hey there! I'm Aryan Goodarzi from Iran. I'm a Pixel Art and Blockbench , and I'm also a lifelong learner, diving into all 
