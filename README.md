@@ -1,3 +1,4 @@
+
 ![alt text](https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:good,f_png/cloudinary-tools-uploads/msgvd2mxxzntg5t6y9ii)
 
 # Introduction
@@ -37,3 +38,5 @@ and my profession as of now is not a  programmer but I will try to have fun alon
 bbeing said I will share each and every one the coding languages that I learn with you all to know exactly what I'm doing.
 
 Also I will make bunch of pronects to make my expriences more valuable which you can participate too if you want to.
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Aryan137445&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Aryan137445&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
