@@ -1,6 +1,13 @@
 ![alt text](https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:good,f_png/cloudinary-tools-uploads/msgvd2mxxzntg5t6y9ii)
 
-# The Story
+# Introduction
+Hey there! I'm Aryan Goodarzi from Iran. I'm a Pixel Art and Blockbench , and I'm also a lifelong learner, diving into all 
+kinds of knowledge. Plus, I'm on a coding journey, eager to pick up as many programming languages as I can.
+
+
+### The Story
+
+---
 
 Ever since I can remember, I've had a huge passion for computers. I'd sit in front of my monitor, completely absorbed 
 in figuring things out. My mom loves to share this story about how, at just 4 years old, I managed to open up our home 
@@ -21,8 +28,9 @@ Eventually, I started playing around with XML, HTML, CSS, and JavaScript. But si
 my life, I never really got to fully explore or learn these languages. I just left it all behind, and that was pretty 
 much it until around 2024 when I had this amazing idea to create my own game, which is what brought me here.
 
+### The Journey
 
-## The Journey
+---
 
 So I like to start my journey by truely learn the code that i'm studying I woudln't tire myself up since I'm a human
 and my profession as of now is not a  programmer but I will try to have fun along the way that im going through this
