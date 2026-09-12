@@ -1,10 +1,6 @@
 ![alt text](https://i.postimg.cc/9QLTFfCr/03-Banner.jpg)
 <br/>
 
-<object alt="Static Badge" src="https://img.shields.io/badge/Linktree-%23222432?style=flat&logo=linktree&logoColor=%2343E55E&logoSize=auto&link=https%3A%2F%2Flinktr.ee%2FAryanGoodarzi">
-<img alt="Static Badge" src="https://img.shields.io/badge/Freecodecamp-%23222432?style=flat&logo=freecodecamp&logoColor=%23F04242&logoSize=auto&link=https%3A%2F%2Fwww.freecodecamp.org%2Faryangoodarzi">
-<img alt="Static Badge" src="https://img.shields.io/badge/Stackoverflow-%23222432?style=flat&logo=stackoverflow&logoColor=%23F58025&logoSize=auto&link=https%3A%2F%2Fstackoverflow.com%2Fquestions">
-
 # Introduction
 Hey there! I'm Aryan Goodarzi from Iran. I'm a Pixel Art and Blockbench , and I'm also a lifelong learner, diving into all 
 kinds of knowledge. Plus, I'm on a coding journey, eager to pick up as many programming languages as I can.
