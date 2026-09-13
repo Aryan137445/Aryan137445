@@ -51,28 +51,19 @@ Also I will make bunch of pronects to make my expriences more valuable which you
 ---
 
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23262729?style=flat&logo=javascript&logoColor=%23F7DF1E">
-<br/>
 
 ### Languages I need to learn
 
 ---
 
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML%205-%23262729?style=flat&logo=html5&logoColor=%23E34F26"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20-%23262729?style=flat&logo=css&logoColor=%23663399"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23262729?style=flat&logo=javascript&logoColor=%23F7DF1E"> <img alt="Static Badge" src="https://img.shields.io/badge/Type%20Script-%23262729?style=flat&logo=typescript&logoColor=%233178C6"> <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B%20-%23262729?style=flat&logo=cplusplus&logoColor=%2300599C"> <img alt="Static Badge" src="https://img.shields.io/badge/JSON%20-%23262729?style=flat&logo=json&logoColor=%23FD3456"> <img alt="Static Badge" src="https://img.shields.io/badge/LUA-%23262729?style=flat&logo=lua&logoColor=%23000080"> <img alt="Static Badge" src="https://img.shields.io/badge/Angular-%23262729?style=flat&logo=angular&logoColor=%23DD1100"> <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%23262729?style=flat&logo=kotlin&logoColor=%237F52FF">
-<br/>
-<br/>
 
 ### Tools I use
 
 ---
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Godot%20Engine-%23262729?style=flat&logo=godotengine&logoColor=%23478CBF">
-<img alt="Static Badge" src="https://img.shields.io/badge/Block%20Bench-%23262729?style=flat&logo=blockbench&logoColor=%231E93D9">
-<img alt="Static Badge" src="https://img.shields.io/badge/Photopea-%23262729?style=flat&logo=photopea&logoColor=%2318A497">
-<img alt="Static Badge" src="https://img.shields.io/badge/VSCodium-%23262729?style=flat&logo=vscodium&logoColor=%232F80ED">
-<br/>
-<br/>
+<img alt="Static Badge" src="https://img.shields.io/badge/Godot%20Engine-%23262729?style=flat&logo=godotengine&logoColor=%23478CBF"> <img alt="Static Badge" src="https://img.shields.io/badge/Block%20Bench-%23262729?style=flat&logo=blockbench&logoColor=%231E93D9"> <img alt="Static Badge" src="https://img.shields.io/badge/Photopea-%23262729?style=flat&logo=photopea&logoColor=%2318A497"> <img alt="Static Badge" src="https://img.shields.io/badge/VSCodium-%23262729?style=flat&logo=vscodium&logoColor=%232F80ED">
 
 <img src="https://ghstats.dev/api/card?username=Aryan137445&border_radius=15.5" alt="GitHub Stats Card" />
-<br/>
-<br/>
+
 <img src="https://ghstats.dev/api/sparkline?username=Aryan137445&days=30&width=495&height=80" alt="Contribution Sparkline" />
