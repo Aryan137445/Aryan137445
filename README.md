@@ -5,6 +5,7 @@
 Hey there! I'm Aryan Goodarzi from Iran. I'm a Pixel Art and Blockbench , and I'm also a lifelong learner, diving into all 
 kinds of knowledge. Plus, I'm on a coding journey, eager to pick up as many programming languages as I can.
 
+<img src="https://ghstats.dev/api/mini?username=Aryan137445&metric=followers&label=%F0%9F%8E%AD+Followers&color=87372b&style=plastic" alt="GitHub Mini Badge" /> <img src="https://ghstats.dev/api/mini?username=Aryan137445&label=%E2%9C%A8+Stars&color=877a2b&style=plastic" alt="GitHub Mini Badge" /> <img src="https://ghstats.dev/api/mini?username=Aryan137445&label=%F0%9F%94%A5+Streaks&color=bc6b29&style=plastic" alt="GitHub Mini Badge" />
 
 ### The Story
 
@@ -49,7 +50,7 @@ Also I will make bunch of pronects to make my expriences more valuable which you
 
 ---
 
-<img width="40px" align="left" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23262729?style=flat&logo=javascript&logoColor=%23F7DF1E">
 
 <br/>
 <br/>
@@ -57,14 +58,17 @@ Also I will make bunch of pronects to make my expriences more valuable which you
 ### Languages I need to learn
 
 ---
-<img width="40px" align="left" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img width="40px" align="left" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img width="40px" align="left" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img width="40px" align="left" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img width="40px" align="left" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img width="40px" align="left" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img width="40px" align="left" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
-<img width="40px" align="left" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML%205-%23262729?style=flat&logo=html5&logoColor=%23E34F26">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS%20-%23262729?style=flat&logo=css&logoColor=%23663399">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23262729?style=flat&logo=javascript&logoColor=%23F7DF1E">
+<img alt="Static Badge" src="https://img.shields.io/badge/Type%20Script-%23262729?style=flat&logo=typescript&logoColor=%233178C6">
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B%20-%23262729?style=flat&logo=cplusplus&logoColor=%2300599C">
+<img alt="Static Badge" src="https://img.shields.io/badge/JSON%20-%23262729?style=flat&logo=json&logoColor=%23FD3456">
+<img alt="Static Badge" src="https://img.shields.io/badge/LUA-%23262729?style=flat&logo=lua&logoColor=%23000080">
+<img alt="Static Badge" src="https://img.shields.io/badge/Angular-%23262729?style=flat&logo=angular&logoColor=%23DD1100">
+<img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%23262729?style=flat&logo=kotlin&logoColor=%237F52FF">
+
 
 <br/>
 <br/>
@@ -73,13 +77,17 @@ Also I will make bunch of pronects to make my expriences more valuable which you
 
 ---
 
-<img width="40px" align="left" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-<img width="40px" align="left" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img width="40px" align="left" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
+<img alt="Static Badge" src="https://img.shields.io/badge/Godot%20Engine-%23262729?style=flat&logo=godotengine&logoColor=%23478CBF">
+<img alt="Static Badge" src="https://img.shields.io/badge/Block%20Bench-%23262729?style=flat&logo=blockbench&logoColor=%231E93D9">
+<img alt="Static Badge" src="https://img.shields.io/badge/Photopea-%23262729?style=flat&logo=photopea&logoColor=%2318A497">
+<img alt="Static Badge" src="https://img.shields.io/badge/VSCodium-%23262729?style=flat&logo=vscodium&logoColor=%232F80ED">
+
 
 <br/>
 <br/>
 <br/>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Aryan137445&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Aryan137445&custom_title=My%20Github%20Stats&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dark_github)
-
+<img src="https://ghstats.dev/api/card?username=Aryan137445&border_radius=15.5" alt="GitHub Stats Card" />
+<br/>
+<br/>
+<img src="https://ghstats.dev/api/sparkline?username=Aryan137445&days=30&width=495&height=80" alt="Contribution Sparkline" />
