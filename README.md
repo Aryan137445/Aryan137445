@@ -51,8 +51,6 @@ Also I will make bunch of pronects to make my expriences more valuable which you
 ---
 
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23262729?style=flat&logo=javascript&logoColor=%23F7DF1E">
-
-<br/>
 <br/>
 
 ### Languages I need to learn
@@ -68,8 +66,6 @@ Also I will make bunch of pronects to make my expriences more valuable which you
 <img alt="Static Badge" src="https://img.shields.io/badge/LUA-%23262729?style=flat&logo=lua&logoColor=%23000080">
 <img alt="Static Badge" src="https://img.shields.io/badge/Angular-%23262729?style=flat&logo=angular&logoColor=%23DD1100">
 <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%23262729?style=flat&logo=kotlin&logoColor=%237F52FF">
-
-
 <br/>
 <br/>
 
@@ -81,9 +77,6 @@ Also I will make bunch of pronects to make my expriences more valuable which you
 <img alt="Static Badge" src="https://img.shields.io/badge/Block%20Bench-%23262729?style=flat&logo=blockbench&logoColor=%231E93D9">
 <img alt="Static Badge" src="https://img.shields.io/badge/Photopea-%23262729?style=flat&logo=photopea&logoColor=%2318A497">
 <img alt="Static Badge" src="https://img.shields.io/badge/VSCodium-%23262729?style=flat&logo=vscodium&logoColor=%232F80ED">
-
-
-<br/>
 <br/>
 <br/>
 
