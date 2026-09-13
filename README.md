@@ -57,15 +57,7 @@ Also I will make bunch of pronects to make my expriences more valuable which you
 
 ---
 
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML%205-%23262729?style=flat&logo=html5&logoColor=%23E34F26">
-<img alt="Static Badge" src="https://img.shields.io/badge/CSS%20-%23262729?style=flat&logo=css&logoColor=%23663399">
-<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23262729?style=flat&logo=javascript&logoColor=%23F7DF1E">
-<img alt="Static Badge" src="https://img.shields.io/badge/Type%20Script-%23262729?style=flat&logo=typescript&logoColor=%233178C6">
-<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B%20-%23262729?style=flat&logo=cplusplus&logoColor=%2300599C">
-<img alt="Static Badge" src="https://img.shields.io/badge/JSON%20-%23262729?style=flat&logo=json&logoColor=%23FD3456">
-<img alt="Static Badge" src="https://img.shields.io/badge/LUA-%23262729?style=flat&logo=lua&logoColor=%23000080">
-<img alt="Static Badge" src="https://img.shields.io/badge/Angular-%23262729?style=flat&logo=angular&logoColor=%23DD1100">
-<img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%23262729?style=flat&logo=kotlin&logoColor=%237F52FF">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML%205-%23262729?style=flat&logo=html5&logoColor=%23E34F26"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS%20-%23262729?style=flat&logo=css&logoColor=%23663399"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23262729?style=flat&logo=javascript&logoColor=%23F7DF1E"> <img alt="Static Badge" src="https://img.shields.io/badge/Type%20Script-%23262729?style=flat&logo=typescript&logoColor=%233178C6"> <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B%20-%23262729?style=flat&logo=cplusplus&logoColor=%2300599C"> <img alt="Static Badge" src="https://img.shields.io/badge/JSON%20-%23262729?style=flat&logo=json&logoColor=%23FD3456"> <img alt="Static Badge" src="https://img.shields.io/badge/LUA-%23262729?style=flat&logo=lua&logoColor=%23000080"> <img alt="Static Badge" src="https://img.shields.io/badge/Angular-%23262729?style=flat&logo=angular&logoColor=%23DD1100"> <img alt="Static Badge" src="https://img.shields.io/badge/Kotlin-%23262729?style=flat&logo=kotlin&logoColor=%237F52FF">
 <br/>
 <br/>
 
